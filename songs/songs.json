@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Angry Song 1",
+        "description": "Calm your Anger",
+        "file": "songs(mp3)/1.mp3",
+        "songCover": "songs/Angry_(mood)/cover.jpg",
+        "playlist": "Angry Mood"
+    },
+    {
+        "title": "Angry Song 2",
+        "description": "Release your Anger",
+        "file": "songs(mp3)/9.mp3",
+        "songCover": "songs/Angry_(mood)/cover.jpg",
+        "playlist": "Angry Mood"
+    },
+    {
+        "title": "Bright Song 1",
+        "description": "Let the brightness in",
+        "file": "songs(mp3)/10.mp3",
+        "songCover": "songs/Bright_(mood)/cover.jpg",
+        "playlist": "Bright Songs"
+    },
+    {
+        "title": "Bright Song 2",
+        "description": "Shine bright like a diamond",
+        "file": "songs(mp3)/abadoned-pyramid-atmo-orchestral-and-drone-sad-mood-9237.mp3",
+        "songCover": "songs/Bright_(mood)/cover.jpg",
+        "playlist": "Bright Songs"
+    },
+    {
+        "title": "Chill Song 1",
+        "description": "Chill and relax",
+        "file": "songs(mp3)/flow-211881.mp3",
+        "songCover": "songs/Chill_(mood)/cover.jpg",
+        "playlist": "Just Chill"
+    },
+    {
+        "title": "Chill Song 2",
+        "description": "Cool vibes all around",
+        "file": "songs(mp3)/for-her-chill-upbeat-summel-travel-vlog-and-ig-music-royalty-free-use-202298.mp3",
+        "songCover": "songs/Chill_(mood)/cover.jpg",
+        "playlist": "Just Chill"
+    },
+    {
+        "title": "Copyright Song",
+        "description": "Original cover songs",
+        "file": "songs(mp3)/Winning Speech.mp3",
+        "songCover": "songs/cs/cover.jpg",
+        "playlist": "Copyright Songs"
+    },
+    {
+        "title": "Dark Song 1",
+        "description": "Embrace the darkness",
+        "file": "songs(mp3)/dark-thriller-castle-atmo-orchestral-drone-9276.mp3",
+        "songCover": "songs/Dark_(mood)/cover.jpg",
+        "playlist": "Dark Horse"
+    },
+    {
+        "title": "Dark Song 2",
+        "description": "Explore the shadows",
+        "file": "songs(mp3)/intense-battle-scene-115478.mp3",
+        "songCover": "songs/Dark_(mood)/cover.jpg",
+        "playlist": "Dark Horse"
+    },
+    {
+        "title": "Diljit's Hit 1",
+        "description": "Diljit's top chartbusters",
+        "file": "songs(mp3)/Lutt Putt Gaya Dunki 128 Kbps.mp3",
+        "songCover": "songs/Diljit/cover.jpg",
+        "playlist": "Diljit Dosanjh"
+    },
+    {
+        "title": "Funky Song 1",
+        "description": "Get funky tonight",
+        "file": "songs(mp3)/easy-lifestyle-137766.mp3",
+        "songCover": "songs/Funky_(mood)/cover.jpg",
+        "playlist": "Go Funky"
+    },
+    {
+        "title": "Funky Song 2",
+        "description": "Funky vibes all day",
+        "file": "songs(mp3)/for-her-chill-upbeat-summel-travel-vlog-and-ig-music-royalty-free-use-202298 (1).mp3",
+        "songCover": "songs/Funky_(mood)/cover.jpg",
+        "playlist": "Go Funky"
+    },
+    {
+        "title": "Karan Aujla Song 1",
+        "description": "Karan Aujla's hits",
+        "file": "songs(mp3)/good-night-160166.mp3",
+        "songCover": "songs/karan aujla/cover.jpg",
+        "playlist": "Karan Aujla"
+    },
+    {
+        "title": "Karan Aujla Song 2",
+        "description": "Best of Karan Aujla",
+        "file": "songs(mp3)/hey-hey-rise-up-background-music-for-video-slap-house-90-sec-216878.mp3",
+        "songCover": "songs/karan aujla/cover.jpg",
+        "playlist": "Karan Aujla"
+    },
+    {
+        "title": "Love Song 1",
+        "description": "Love is all around",
+        "file": "songs(mp3)/morning-garden-acoustic-chill-15013.mp3",
+        "songCover": "songs/Love_(mood)/cover.jpg",
+        "playlist": "I Love You"
+    },
+    {
+        "title": "Love Song 2",
+        "description": "Feel the love tonight",
+        "file": "songs(mp3)/once-in-paris-168895.mp3",
+        "songCover": "songs/Love_(mood)/cover.jpg",
+        "playlist": "I Love You"
+    },
+    {
+        "title": "Sleep Song 2",
+        "description": "Dreamy melodies for sleep",
+        "file": "songs(mp3)/groovy-ambient-funk-201745.mp3",
+        "songCover": "songs/ncs/cover.jpg",
+        "playlist": "Sleep Songs"
+    },
+    {
+        "title": "Uplifting Song 1",
+        "description": "Feel uplifted and motivated",
+        "file": "songs(mp3)/for-her-chill-upbeat-summel-travel-vlog-and-ig-music-royalty-free-use-202298 (1).mp3",
+        "songCover": "songs/Uplifting_(mood)/cover.jpg",
+        "playlist": "Get up"
+    },
+    {
+        "title": "Groovy Ambient Funk",
+        "description": "Funky ambient groove",
+        "file": "songs(mp3)/groovy-ambient-funk-201745.mp3",
+        "songCover": "songs/Funky_(mood)/cover.jpg",
+        "playlist": "Go Funky"
+    },
+    {
+        "title": "Abandoned Pyramid Atmo",
+        "description": "Orchestral and drone atmosphere",
+        "file": "songs(mp3)/abadoned-pyramid-atmo-orchestral-and-drone-sad-mood-9237.mp3",
+        "songCover": "songs/Bright_(mood)/cover.jpg",
+        "playlist": "Bright Songs"
+    },
+    {
+        "title": "Hey Hey Rise Up",
+        "description": "Background music for video",
+        "file": "songs(mp3)/hey-hey-rise-up-background-music-for-video-slap-house-90-sec-216878.mp3",
+        "songCover": "songs/karan aujla/cover.jpg",
+        "playlist": "Karan Aujla"
+    },
+    {
+        "title": "Intense Battle Scene",
+        "description": "Dramatic battle scene music",
+        "file": "songs(mp3)/intense-battle-scene-115478.mp3",
+        "songCover": "songs/Dark_(mood)/cover.jpg",
+        "playlist": "Dark Horse"
+    },
+    {
+        "title": "Lutt Putt Gaya Dunki",
+        "description": "Punjabi track",
+        "file": "songs(mp3)/Lutt Putt Gaya Dunki 128 Kbps.mp3",
+        "songCover": "songs/Diljit/cover.jpg",
+        "playlist": "Diljit Dosanjh"
+    },
+    {
+        "title": "Morning Garden Acoustic Chill",
+        "description": "Relaxing acoustic chill music",
+        "file": "songs(mp3)/morning-garden-acoustic-chill-15013.mp3",
+        "songCover": "songs/Love_(mood)/cover.jpg",
+        "playlist": "I Love You"
+    },
+    {
+        "title": "Sunny Jamboree",
+        "description": "Bright and sunny vibes",
+        "file": "songs(mp3)/sunny-jamboree-204820.mp3",
+        "songCover": "songs/Chill_(mood)/cover.jpg",
+        "playlist": "Just Chill"
+    },
+    {
+        "title": "Winning Speech",
+        "description": "Motivational speech",
+        "file": "songs(mp3)/Winning Speech.mp3",
+        "songCover": "songs/cs/cover.jpg",
+        "playlist": "Copyright Songs"
+    },
+    {
+        "title": "Good Night",
+        "description": "Calming nighttime music",
+        "file": "songs(mp3)/good-night-160166.mp3",
+        "songCover": "songs/karan aujla/cover.jpg",
+        "playlist": "Karan Aujla"
+    }
+]

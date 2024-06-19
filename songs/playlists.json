@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Angry Mood",
+        "description": "Calm your Anger",
+        "albumCover": "songs/Angry_(mood)/cover.jpg"
+    },
+    {
+        "title": "Bright Songs",
+        "description": "Bright Songs for you",
+        "albumCover": "songs/Bright_(mood)/cover.jpg"
+    },
+    {
+        "title": "Just Chill",
+        "description": "Yes, Just Chill",
+        "albumCover": "songs/Chill_(mood)/cover.jpg"
+    },
+    {
+        "title": "Copyright Songs",
+        "description": "Cover Songs for you",
+        "albumCover": "songs/cs/cover.jpg"
+    },
+    {
+        "title": "Dark Horse",
+        "description": "Dark Songs for you",
+        "albumCover": "songs/Dark_(mood)/cover.jpg"
+    },
+    {
+        "title": "Diljit Dosanjh",
+        "description": "Diljit Dosanjh Hits",
+        "albumCover": "songs/Diljit/cover.jpg"
+    },
+    {
+        "title": "Go Funky",
+        "description": "Let's Go Funky",
+        "albumCover": "songs/Funky_(mood)/cover.jpg"
+    },
+    {
+        "title": "Karan Aujla",
+        "description": "Karan Aujla for you",
+        "albumCover": "songs/karan aujla/cover.jpg"
+    },
+    {
+        "title": "I Love You",
+        "description": "Love is in the air",
+        "albumCover": "songs/Love_(mood)/cover.jpg"
+    },
+    {
+        "title": "Sleep Songs",
+        "description": "Songs for you",
+        "albumCover": "songs/ncs/cover.jpg"
+    },
+    {
+        "title": "Get up",
+        "description": "You can do it!",
+        "albumCover": "songs/Uplifting_(mood)/cover.jpg"
+    }
+]
