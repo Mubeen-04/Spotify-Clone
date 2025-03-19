@@ -18,9 +18,11 @@ A frontend-only **Spotify Clone** built using **HTML, CSS, and JavaScript**. Thi
 ## 🔧 Installation  
 To run the project locally, follow these steps:  
 
+## 📸 Screenshots  
+![Screenshot (88)](https://github.com/Mubeen-04/Spotify-Clone/assets/172309170/fca59992-a24a-46bc-834d-230e8eb16a06)
+
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/yourusername/Spotify-Clone.git
    cd Spotify-Clone
-
-![Screenshot (88)](https://github.com/Mubeen-04/Spotify-Clone/assets/172309170/fca59992-a24a-46bc-834d-230e8eb16a06)
+   
